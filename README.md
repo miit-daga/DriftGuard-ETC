@@ -23,3 +23,9 @@ This project implements a backend system focused on the continuous analysis and 
   
 - **Visualization:**  
   Leverages Matplotlib for visualizing model performance and monitoring the detection of concept drift.
+
+### License
+
+This project is licensed under the **MIT License**. This means you are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, provided that the original copyright notice and this permission notice are included in all copies or substantial portions of the software. See the `LICENSE` file for more details.
+
+---
